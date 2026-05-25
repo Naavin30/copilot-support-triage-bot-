@@ -1,15 +1,15 @@
 # copilot-support-triage-bot-
 AI-powered support triage bot built using Microsoft Copilot Studio 
-# 🤖 Copilot Support Triage Bot
+# Copilot Support Triage Bot
 
-## 🚀 Overview
+## Overview
 This project demonstrates an AI-powered support triage bot built using Microsoft Copilot Studio.
 
 The bot helps automate ticket intake, collect user inputs, and route issues to the correct system.
 
 ---
 
-## 🏗 Architecture
+## Architecture
 - Copilot Studio (Bot Engine)
 - Topics (Conversation Logic)
 - Dataverse (Solution Storage)
@@ -17,7 +17,7 @@ The bot helps automate ticket intake, collect user inputs, and route issues to t
 
 ---
 
-## ⚙ Features
+## Features
 - Intelligent ticket classification
 - Dynamic user interaction
 - Automated data collection
@@ -26,10 +26,10 @@ The bot helps automate ticket intake, collect user inputs, and route issues to t
 
 ---
 
-## 📦 Solution Export
+##  Solution Export
 The bot is packaged as a Power Platform solution.
 
-👉 To use:
+To use:
 1. Go to Power Apps → Solutions
 2. Click Import
 3. Upload solution.zip
@@ -37,20 +37,11 @@ The bot is packaged as a Power Platform solution.
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 1. User interacts with bot  
 2. Bot collects details  
 3. AI classifies the issue  
 4. Routes or escalates ticket  
 
----
-
-## 📸 Demo Screenshots
-(Add screenshots here)
-
----
-
-## 👩‍💻 Author
-Nithika KS  
-Technical Support Engineer  
-``
+Creator,
+Naveen Madhesan
